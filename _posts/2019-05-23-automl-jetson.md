@@ -3,8 +3,7 @@ layout: post
 title:  "Auto ML"
 date:   2019-05-23 12:43:23 +0200
 categories: blog
-tags:
-  author: bastian_schoettner
+author: bastian_schoettner
 ---
 Hello this is a test
 ```python

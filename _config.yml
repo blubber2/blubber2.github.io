@@ -30,13 +30,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-  bastian_schoettner:
-    name: Bastian Schöttner
-    email: bastian.schoettner@rewe-digital.com
-  rutger_bezema:
-    name: Rutger Bezema
-
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

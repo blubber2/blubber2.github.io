@@ -11,4 +11,4 @@ Hello this is a test
 print('this is a test for code')
 ```
 and an image
-![Model Graph in Tensorboard](_posts/images/board_graph_crop.png)
+![Model Graph in Tensorboard](https://github.com/blubber2/blubber2.github.io/_posts/images/board_graph_crop.png)

@@ -2,7 +2,7 @@
 layout: post
 title:  "WTF"
 date:   2019-05-23 12:15:23 +0200
-categories: Things
+categories: jekyll update
 ---
 Go ahead and vanish
 

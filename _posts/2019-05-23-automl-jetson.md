@@ -12,5 +12,5 @@ print('this is a test for code')
 
 
 and an image
-![Model Graph in Tensorboard](/assets/board_graph_crop.png)
+![Model Graph in Tensorboard](/assets/automl/board_graph_crop.png)
 is there any update?
